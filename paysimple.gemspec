@@ -23,5 +23,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rspec'
 
   spec.add_dependency('rest-client', '~> 2')
-  spec.add_dependency('json', '~> 1.8.1')
+  spec.add_dependency('json', '~> 2.0')
 end
